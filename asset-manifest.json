@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webdevreact/static/css/main.96ab7281.css",
+    "main.js": "/webdevreact/static/js/main.83812f61.js",
+    "static/js/453.e07458e3.chunk.js": "/webdevreact/static/js/453.e07458e3.chunk.js",
+    "index.html": "/webdevreact/index.html",
+    "main.96ab7281.css.map": "/webdevreact/static/css/main.96ab7281.css.map",
+    "main.83812f61.js.map": "/webdevreact/static/js/main.83812f61.js.map",
+    "453.e07458e3.chunk.js.map": "/webdevreact/static/js/453.e07458e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ab7281.css",
+    "static/js/main.83812f61.js"
+  ]
+}
